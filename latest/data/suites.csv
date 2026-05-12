@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue May 12 09:30:17 UTC 2026","Tue May 12 09:30:17 UTC 2026","5","chromium","example.spec.ts","","","","get started link",""
+"failed","Tue May 12 09:30:09 UTC 2026","Tue May 12 09:30:09 UTC 2026","4","chromium","example.spec.ts","","","","has title",""
+"failed","Tue May 12 09:30:04 UTC 2026","Tue May 12 09:30:04 UTC 2026","5","chromium","login.spec.ts","CIPS EHR Login","","","user can login successfully",""
