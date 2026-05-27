@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue May 12 13:52:37 UTC 2026","Tue May 12 13:52:38 UTC 2026","632","chromium","example.spec.ts","","","","get started link",""
-"passed","Tue May 12 13:52:37 UTC 2026","Tue May 12 13:52:42 UTC 2026","5092","chromium","Patient/login.spec.ts","Login Test - EHR Application","","","user can login successfully",""
-"passed","Tue May 12 13:52:37 UTC 2026","Tue May 12 13:52:54 UTC 2026","17056","chromium","Patient/patient_registration.spec.ts","E2E Patient Registration","","","should register a new patient successfully",""
-"passed","Tue May 12 13:52:26 UTC 2026","Tue May 12 13:52:26 UTC 2026","375","chromium","example.spec.ts","","","","has title",""
